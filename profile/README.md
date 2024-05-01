@@ -21,8 +21,6 @@ NextPilot是一款的高性能高可靠的自动驾驶仪，支持多旋翼、�
 
 代码仓库：<https://github.com/nextpilot/nextpilot-flight-control.git>
 
-开发环境：[Windows](https://github.com/nextpilot/nextpilot-windows-toolchain.git)、[Ubuntu](https://github.com/nextpilot/nextpilot-ubuntu-toolchain.git)
-
 开发指南：https://docs.nextpilot.cn/develop
 
 使用手册：https://docs.nextpilot.cn/manual
