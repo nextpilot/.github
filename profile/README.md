@@ -19,10 +19,20 @@ NextPilot是一款的高性能高可靠的自动驾驶仪，支持多旋翼、�
 1. 支持模型在环(MIL)、软件在环(SIL)、硬件在环(HIL)、仿真在环(SIH)等各种飞行验证。
 
 
-代码仓库：<https://github.com/nextpilot/nextpilot-flight-control>
+代码仓库：<https://github.com/nextpilot/nextpilot-flight-control.git>
 
-开发环境：<https://github.com/nextpilot/nextpilot-windows-toolchain>
+开发环境：[Windows](https://github.com/nextpilot/nextpilot-windows-toolchain.git)、[Ubuntu](https://github.com/nextpilot/nextpilot-ubuntu-toolchain.git)
 
 开发指南：https://docs.nextpilot.cn/develop
 
 使用手册：https://docs.nextpilot.cn/manual
+
+[![Nextpilot-Flight-Control](https://github-readme-stats.vercel.app/api/pin/?username=nextpilot&repo=nextpilot-flight-control&show_owner=true)](https://github.com/nextpilot/nextpilot-flight-control.git)&nbsp;
+[![Nextpilot-Ground-Station](https://github-readme-stats.vercel.app/api/pin/?username=nextpilot&repo=nextpilot-ground-station&show_owner=true)](https://github.com/nextpilot/nextpilot-ground-station.git)
+
+[![Nextpilot-Windows-Toolchain](https://github-readme-stats.vercel.app/api/pin/?username=nextpilot&repo=nextpilot-windows-toolchain&show_owner=true)](https://github.com/nextpilot/nextpilot-windows-toolchain.git)&nbsp;
+[![Nextpilot-Ubuntu-Toolchain](https://github-readme-stats.vercel.app/api/pin/?username=nextpilot&repo=nextpilot-ubuntu-toolchain&show_owner=true)](https://github.com/nextpilot/nextpilot-ubuntu-toolchain.git)
+
+[![Nextpilot-Logging-Review](https://github-readme-stats.vercel.app/api/pin/?username=nextpilot&repo=nextpilot-logging-review&show_owner=true)](https://github.com/nextpilot/nextpilot-logging-review.git)
+
+
