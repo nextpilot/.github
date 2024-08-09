@@ -32,7 +32,7 @@ Develop Guide：https://docs.nextpilot.cn/develop , User Manul：https://docs.ne
 
 ## NextPilot Aircraft Design
 
-[![Nextpilot-Vtol-100kg](https://github-readme-stats.vercel.app/api/pin/?username=nextpilot&repo=wingspan-vtol-100kg&show_owner=true)](https://github.com/nextpilot/wingspan-vtol-100kg.git)&nbsp;
+[![Nextpilot-Vtol-100kg](https://github-readme-stats.vercel.app/api/pin/?username=nextpilot&repo=wingspan-vtol-100kg&show_owner=true)](https://github.com/nextpilot/nextpilot-vtol-100kg.git)&nbsp;
 
 
 ## NextPilot Intelligent Application
