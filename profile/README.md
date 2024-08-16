@@ -16,7 +16,7 @@
 
 [NextPilot Flight Control](https://github.com/nextpilot/nextpilot-flight-control.git) is a powerfull, scalable and advanced autopilot, which is based on [RT-Thread V5.0.2](https://github.com/RT-Thread/rt-thread/tree/v5.0.2), ported from [PX4 V1.14.2](https://github.com/PX4/PX4-Autopilot/tree/v1.14.2), and designed to be easily used in education, research, and industry. 
 
-Develop Guide：https://docs.nextpilot.cn/develop , User Manul：https://docs.nextpilot.cn/manual
+Develop Guide：https://www.nextpilot.org/develop , User Manul：https://www.nextpilot.org/manual
 
 [![Nextpilot-Flight-Control](https://github-readme-stats.vercel.app/api/pin/?username=nextpilot&repo=nextpilot-flight-control&show_owner=true)](https://github.com/nextpilot/nextpilot-flight-control.git)&nbsp;
 [![Nextpilot-Ground-Station](https://github-readme-stats.vercel.app/api/pin/?username=nextpilot&repo=nextpilot-simulink-toolbox&show_owner=true)](https://github.com/nextpilot/nextpilot-simulink-toolbox.git)
