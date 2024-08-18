@@ -10,16 +10,17 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-||||
-|---|---|---|
+|SERVICE|URL|
+|---|---|
 |home|<https://www.nextpilot.org>|
 |develop guide|<https://www.nextpilot.org/develop>|
 |user manul|<https://www.nextpilot.org/manual>|
-|flight autopilot|https://github.com/nextpilot/nextpilot-flight-control||
-|windows toolchain|https://github.com/nextpilot/nextpilot-windows-toolchain||
+|flight autopilot|https://github.com/nextpilot/nextpilot-flight-control|
+|windows toolchain|https://github.com/nextpilot/nextpilot-windows-toolchain|
 |contact us|<nextpilot@qq.com>|
 
-![](./add-to-group.jpg)
+
+<img src="./add-to-group.jpg"  width="450" height="250"/>
 
 ## NextPilot Flight Control
 
