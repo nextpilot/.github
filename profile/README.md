@@ -12,9 +12,9 @@
 
 |SERVICE|URL|
 |---|---|
-|home|<https://www.nextpilot.org>|
-|develop guide|<https://www.nextpilot.org/develop>|
-|user manul|<https://www.nextpilot.org/manual>|
+|home|<https://nextpilot.org>|
+|develop guide|<https://nextpilot.org/develop>|
+|user manul|<https://nextpilot.org/manual>|
 |flight autopilot|https://github.com/nextpilot/nextpilot-flight-control|
 |windows toolchain|https://github.com/nextpilot/nextpilot-windows-toolchain|
 |contact us|<nextpilot@qq.com>|
